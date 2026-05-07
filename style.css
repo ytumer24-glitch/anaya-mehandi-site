@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo {
+    color: rgba(0, 0, 0, 0.651);
+    padding: 1rem;
+}
+
+#first-line{
+    font-size: 0.5rem;
+}
+
+#logo-heading{
+    color: rgba(0, 0, 0, 0.685);
+}
